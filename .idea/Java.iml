@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Alura/minhalivraria/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TestesGerais/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MiniProjetos/rpgbasico/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Alura/calcularretangulo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Alura/moeda/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Alura/tabuada/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

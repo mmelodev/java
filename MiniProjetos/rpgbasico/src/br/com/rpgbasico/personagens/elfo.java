@@ -63,7 +63,7 @@ public class elfo extends geral{
     }
 
     @Override
-    public String getsexo(){
-        return "Sem Sexo Definido";
+    public String getSexo() {
+        return "Não tem sexo definido";
     }
 }

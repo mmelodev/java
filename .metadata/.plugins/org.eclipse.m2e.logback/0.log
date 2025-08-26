@@ -658,8 +658,8 @@
 2025-06-30 09:28:41,651 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14-sources.jar
 2025-06-30 09:28:41,656 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-classic:1.4.14
 2025-06-30 09:28:41,728 [BasicRepositoryConnector-repo.maven.apache.org-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
-2025-06-30 09:28:41,812 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-06-30 09:28:41,828 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-30 09:28:41,812 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-06-30 09:28:41,828 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-06-30 09:28:41,835 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-06-30 09:28:41,852 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.4.14/logback-core-1.4.14-sources.jar
 2025-06-30 09:28:41,952 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
@@ -670,9 +670,9 @@
 2025-06-30 09:28:43,869 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.21.1/log4j-to-slf4j-2.21.1-sources.jar
 2025-06-30 09:28:43,876 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-to-slf4j:2.21.1
 2025-06-30 09:28:44,190 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.21.1/log4j-api-2.21.1-sources.jar
-2025-06-30 09:28:44,749 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/main/java
-2025-06-30 09:28:44,757 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
-2025-06-30 09:28:44,774 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
+2025-06-30 09:28:44,749 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/maincalculo/java
+2025-06-30 09:28:44,757 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
+2025-06-30 09:28:44,774 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
 2025-06-30 09:28:44,794 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/test/java
 2025-06-30 09:28:44,796 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/test/resources
 2025-06-30 09:28:46,033 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.21.1/log4j-api-2.21.1-sources.jar
@@ -682,8 +682,8 @@
 2025-06-30 09:28:46,445 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jul-to-slf4j:2.0.13
 2025-06-30 09:28:46,561 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 2,00 sec, update config takes 1,00 sec 
 2025-06-30 09:28:46,669 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1-sources.jar
-2025-06-30 09:28:47,367 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-06-30 09:28:47,389 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-30 09:28:47,367 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-06-30 09:28:47,389 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-06-30 09:28:47,396 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-06-30 09:28:48,291 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1-sources.jar
 2025-06-30 09:28:48,308 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.annotation:jakarta.annotation-api:2.1.1
@@ -843,8 +843,8 @@
 2025-06-30 09:29:40,897 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.9.1/xmlunit-core-2.9.1-sources.jar
 2025-06-30 09:29:41,269 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.9.1/xmlunit-core-2.9.1-sources.jar
 2025-06-30 09:29:41,275 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xmlunit:xmlunit-core:2.9.1
-2025-06-30 09:46:00,840 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-06-30 09:46:00,843 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-30 09:46:00,840 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-06-30 09:46:00,843 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-06-30 09:46:00,856 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-06-30 09:50:33,142 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
 2025-06-30 09:50:37,153 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
@@ -854,24 +854,24 @@
 2025-06-30 09:50:41,564 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.1.6/spring-core-6.1.6.jar
 2025-06-30 09:50:41,598 [BasicRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.1.6/spring-test-6.1.6.jar
 2025-06-30 09:50:41,939 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.1.6/spring-core-6.1.6.jar
-2025-06-30 09:50:44,191 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/main/java
-2025-06-30 09:50:44,192 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
-2025-06-30 09:50:44,194 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
+2025-06-30 09:50:44,191 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/maincalculo/java
+2025-06-30 09:50:44,192 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
+2025-06-30 09:50:44,194 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
 2025-06-30 09:50:44,196 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/test/java
 2025-06-30 09:50:44,199 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/test/resources
 2025-06-30 09:50:44,615 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 10,00 sec, update config takes 0,00 sec 
-2025-06-30 09:50:45,918 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-06-30 09:50:45,957 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-30 09:50:45,918 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-06-30 09:50:45,957 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-06-30 09:50:45,974 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-06-30 09:51:38,035 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-06-30 09:51:38,044 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-30 09:51:38,035 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-06-30 09:51:38,044 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-06-30 09:51:38,050 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-06-30 09:59:59,963 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
-2025-06-30 10:27:17,081 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-06-30 10:27:17,168 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-30 10:27:17,081 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-06-30 10:27:17,168 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-06-30 10:27:17,201 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-06-30 10:36:05,149 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-06-30 10:36:05,151 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-30 10:36:05,149 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-06-30 10:36:05,151 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-06-30 10:36:05,158 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-01 16:00:31,265 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2025-07-04 15:03:50,408 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
@@ -1212,20 +1212,20 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-04 15:06:34,237 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.9.1/xmlunit-core-2.9.1-javadoc.jar
 2025-07-04 15:06:34,542 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.9.1/xmlunit-core-2.9.1-javadoc.jar
 2025-07-04 15:06:34,549 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.xmlunit:xmlunit-core:2.9.1
-2025-07-04 15:06:38,704 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-04 15:06:38,744 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:06:38,704 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:06:38,744 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:06:38,750 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-04 15:07:30,364 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
 2025-07-04 15:07:30,944 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.pom
 2025-07-04 15:07:30,981 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.pom
 2025-07-04 15:07:31,238 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.jar
 2025-07-04 15:07:31,693 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.jar
-2025-07-04 15:07:32,398 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-04 15:07:32,400 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:07:32,398 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:07:32,400 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:07:32,412 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-04 15:07:33,671 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0-sources.jar
-2025-07-04 15:07:33,913 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-04 15:07:33,952 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:07:33,913 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:07:33,952 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:07:33,959 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-04 15:07:34,177 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0-sources.jar
 2025-07-04 15:07:34,184 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.3.0
@@ -1234,26 +1234,26 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-04 15:07:34,524 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.mysql:mysql-connector-j:8.3.0
 2025-07-04 15:10:10,400 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
 2025-07-04 15:10:10,900 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
-2025-07-04 15:10:11,706 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/main/java
-2025-07-04 15:10:11,710 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
-2025-07-04 15:10:11,711 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
+2025-07-04 15:10:11,706 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/maincalculo/java
+2025-07-04 15:10:11,710 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
+2025-07-04 15:10:11,711 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
 2025-07-04 15:10:11,712 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/test/java
 2025-07-04 15:10:11,713 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/test/resources
 2025-07-04 15:10:12,135 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
-2025-07-04 15:10:12,549 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-04 15:10:12,576 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:10:12,549 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:10:12,576 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:10:12,583 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-04 15:10:14,804 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
-2025-07-04 15:10:15,406 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-04 15:10:15,409 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:10:15,406 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:10:15,409 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:10:15,417 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:12:27,353 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:12:27,353 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:12:27,374 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:14:06,464 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:14:06,464 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:14:06,497 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:14:11,414 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:14:11,414 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:14:11,424 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:14:33,806 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:14:33,806 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:14:33,813 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-04 15:21:27,421 [Worker-16: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [299])
 2025-07-04 15:21:27,425 [Worker-16: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Desenvolve Cidade\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
@@ -1316,17 +1316,17 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-04 15:21:27,438 [Worker-16: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Desenvolve Cidade\.p2\pool\plugins\com.google.guava.failureaccess_1.0.3.jar
 2025-07-04 15:21:27,442 [Worker-16: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Desenvolve Cidade\git\Arirang-plataforma":
 2025-07-04 15:21:27,448 [Worker-16: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
-2025-07-04 15:21:33,563 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:21:33,563 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:21:33,573 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-04 15:22:10,312 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
 2025-07-04 15:22:10,927 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
-2025-07-04 15:22:11,648 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/main/java
-2025-07-04 15:22:11,649 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
-2025-07-04 15:22:11,649 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
+2025-07-04 15:22:11,648 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/maincalculo/java
+2025-07-04 15:22:11,649 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
+2025-07-04 15:22:11,649 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
 2025-07-04 15:22:11,649 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/test/java
 2025-07-04 15:22:11,651 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/test/resources
 2025-07-04 15:22:12,005 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
-2025-07-04 15:22:12,397 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:22:12,397 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:22:12,424 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-04 15:22:52,885 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2025-07-04 15:23:52,836 [Worker-8: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [299])
@@ -1390,35 +1390,35 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-04 15:23:52,849 [Worker-8: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Desenvolve Cidade\.p2\pool\plugins\com.google.guava.failureaccess_1.0.3.jar
 2025-07-04 15:23:52,853 [Worker-8: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Desenvolve Cidade\git\Arirang-plataforma":
 2025-07-04 15:23:52,857 [Worker-8: Launching Executing clean in C__Users_Desenvolve Cidade_git_Arirang-plataforma] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
-2025-07-04 15:23:57,635 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:23:57,635 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:23:57,662 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:26:46,103 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-04 15:26:46,114 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:26:46,103 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:26:46,114 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:26:46,119 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:26:59,873 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:26:59,873 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:26:59,894 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:28:53,319 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-04 15:28:53,340 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:28:53,319 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:28:53,340 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:28:53,355 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:29:10,639 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:29:10,639 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:29:10,648 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:29:28,626 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:29:28,626 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:29:28,635 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:29:56,592 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 15:29:56,592 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:29:56,600 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-04 15:30:35,156 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-04 15:30:35,164 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:30:35,156 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:30:35,164 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:30:35,168 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-04 15:30:46,437 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
 2025-07-04 15:30:47,375 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
-2025-07-04 15:30:48,444 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/main/java
-2025-07-04 15:30:48,448 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
-2025-07-04 15:30:48,449 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
+2025-07-04 15:30:48,444 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/maincalculo/java
+2025-07-04 15:30:48,448 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
+2025-07-04 15:30:48,449 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
 2025-07-04 15:30:48,452 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/test/java
 2025-07-04 15:30:48,454 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/test/resources
 2025-07-04 15:30:48,975 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
-2025-07-04 15:30:49,628 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-04 15:30:49,648 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 15:30:49,628 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-04 15:30:49,648 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-04 15:30:49,655 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-07 13:06:18,799 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2025-07-07 13:14:07,216 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
@@ -1552,8 +1552,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-07 13:14:16,328 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.5/spring-data-commons-3.2.5.jar
 2025-07-07 13:14:17,132 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/6.1.6/spring-aspects-6.1.6.jar
 2025-07-07 13:14:17,695 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.4.4.Final/hibernate-core-6.4.4.Final.jar
-2025-07-07 13:14:20,667 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-07 13:14:20,700 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-07 13:14:20,667 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-07 13:14:20,700 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-07 13:14:20,711 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-07 13:14:21,221 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/3.2.5/spring-boot-starter-data-jpa-3.2.5-sources.jar
 2025-07-07 13:14:21,277 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/3.2.5/spring-boot-starter-data-jpa-3.2.5-sources.jar
@@ -1581,8 +1581,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-07 13:14:25,569 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.2.5/spring-boot-starter-jdbc-3.2.5-javadoc.jar
 2025-07-07 13:14:25,575 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-jdbc:3.2.5
 2025-07-07 13:14:25,778 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1-sources.jar
-2025-07-07 13:14:25,884 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-07 13:14:25,913 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-07 13:14:25,884 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-07 13:14:25,913 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-07 13:14:25,924 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-07 13:14:26,011 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1-sources.jar
 2025-07-07 13:14:26,016 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.zaxxer:HikariCP:5.0.1
@@ -1620,8 +1620,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-07 13:14:34,163 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.5.3.Final/jboss-logging-3.5.3.Final-javadoc.jar
 2025-07-07 13:14:34,171 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.jboss.logging:jboss-logging:3.5.3.Final
 2025-07-07 13:14:34,422 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/6.0.6.Final/hibernate-commons-annotations-6.0.6.Final-sources.jar
-2025-07-07 13:14:35,608 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-07 13:14:35,615 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-07 13:14:35,608 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-07 13:14:35,615 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-07 13:14:35,623 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-07 13:14:35,853 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/6.0.6.Final/hibernate-commons-annotations-6.0.6.Final-sources.jar
 2025-07-07 13:14:35,860 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:6.0.6.Final
@@ -1685,9 +1685,9 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-07 13:14:43,720 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.13.0/antlr4-runtime-4.13.0-javadoc.jar
 2025-07-07 13:14:43,729 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.antlr:antlr4-runtime:4.13.0
 2025-07-07 13:14:43,931 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/3.2.5/spring-data-jpa-3.2.5-sources.jar
-2025-07-07 13:14:44,184 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/main/java
-2025-07-07 13:14:44,186 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
-2025-07-07 13:14:44,187 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/main/resources
+2025-07-07 13:14:44,184 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/maincalculo/java
+2025-07-07 13:14:44,186 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
+2025-07-07 13:14:44,187 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/maincalculo/resources
 2025-07-07 13:14:44,188 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plataforma/src/test/java
 2025-07-07 13:14:44,190 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plataforma/src/test/resources
 2025-07-07 13:14:44,241 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/3.2.5/spring-data-jpa-3.2.5-sources.jar
@@ -1700,8 +1700,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-07 13:14:45,001 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.5/spring-data-commons-3.2.5-sources.jar
 2025-07-07 13:14:45,010 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:3.2.5
 2025-07-07 13:14:45,223 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.5/spring-data-commons-3.2.5-javadoc.jar
-2025-07-07 13:14:45,276 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-07 13:14:45,310 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-07 13:14:45,276 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-07 13:14:45,310 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-07 13:14:45,321 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-07 13:14:45,526 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.5/spring-data-commons-3.2.5-javadoc.jar
 2025-07-07 13:14:45,532 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.data:spring-data-commons:3.2.5
@@ -1728,107 +1728,107 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-07-07 13:16:18,738 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
 2025-07-07 13:16:18,866 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4ffcf817{HTTP/1.1, (http/1.1)}{127.0.0.1:51315}
 2025-07-07 13:16:18,926 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@16a11702{STARTING}[12.0.21,sto=0] @723363ms
-2025-07-07 13:17:08,151 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-07 13:17:08,193 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-07 13:17:08,151 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-07 13:17:08,193 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-07 13:17:08,208 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-07 13:18:29,659 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-07 13:18:29,665 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-07 13:18:29,659 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-07 13:18:29,665 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-07 13:18:29,669 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-07 15:42:07,506 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@16a11702{STOPPING}[12.0.21,sto=0]
 2025-07-07 15:42:07,523 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4ffcf817{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2025-07-08 12:01:19,302 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2025-07-09 10:18:14,915 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
-2025-07-09 10:25:10,173 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-09 10:25:10,206 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-09 10:25:10,173 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-09 10:25:10,206 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-09 10:25:10,214 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-15 13:40:16,804 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
-2025-07-15 13:45:31,026 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 13:45:31,069 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 13:45:31,026 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 13:45:31,069 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 13:45:31,079 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 13:47:35,292 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 13:47:35,304 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 13:47:35,292 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 13:47:35,304 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 13:47:35,313 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:00:15,312 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:00:15,415 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:00:15,312 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:00:15,415 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:00:15,429 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-15 14:00:21,788 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.21; built: 2025-05-09T00:32:00.688Z; git: 1c4719601e31b05b7d68910d2edd980259f1f53c; jvm 21.0.7+6-LTS
 2025-07-15 14:00:21,978 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6a46974{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@5d89499d{STARTED}}
 2025-07-15 14:00:21,980 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
 2025-07-15 14:00:22,048 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@c3f8488{HTTP/1.1, (http/1.1)}{127.0.0.1:56559}
 2025-07-15 14:00:22,086 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@4350a35f{STARTING}[12.0.21,sto=0] @1232990ms
-2025-07-15 14:02:27,927 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:02:27,934 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:02:27,927 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:02:27,934 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:02:27,941 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:13:42,829 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:13:42,837 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:13:42,829 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:13:42,837 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:13:42,842 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-15 14:14:35,591 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
 2025-07-15 14:14:39,892 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
 2025-07-15 14:16:00,590 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
-2025-07-15 14:16:01,557 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 14:16:01,559 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:16:01,557 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:16:01,559 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:16:01,567 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:21:30,040 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:21:30,093 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:21:30,040 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:21:30,093 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:21:30,116 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:22:05,085 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:22:05,092 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:22:05,085 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:22:05,092 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:22:05,097 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:37:37,618 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:37:37,624 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:37:37,618 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:37:37,624 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:37:37,629 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:37:41,214 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:37:41,222 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:37:41,214 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:37:41,222 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:37:41,227 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:38:56,093 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:38:56,100 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:38:56,093 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:38:56,100 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:38:56,103 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-15 14:42:30,054 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
 2025-07-15 14:42:46,198 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arirang:plataforma:0.0.1-SNAPSHOT @ C:\Users\Desenvolve Cidade\git\Arirang-plataforma\pom.xml.
-2025-07-15 14:42:47,175 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 14:42:47,176 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:42:47,175 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:42:47,176 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:42:47,183 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:42:48,452 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:42:48,478 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:42:48,452 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:42:48,478 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:42:48,483 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:46:12,917 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:46:12,924 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:46:12,917 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:46:12,924 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:46:12,930 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 14:47:45,762 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 14:47:45,769 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 14:47:45,762 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 14:47:45,769 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 14:47:45,777 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:07:22,280 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:07:22,281 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:07:22,280 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:07:22,281 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:07:22,287 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:07:40,996 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:07:40,997 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:07:40,996 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:07:40,997 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:07:41,001 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:12:14,051 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:12:14,053 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:12:14,051 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:12:14,053 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:12:14,057 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:12:46,987 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:12:46,987 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:12:46,987 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:12:46,987 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:12:46,990 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:28:11,301 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 15:28:11,356 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:28:11,301 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:28:11,356 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:28:11,361 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:30:26,071 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
-2025-07-15 15:30:26,081 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:30:26,071 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:30:26,081 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:30:26,085 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:36:20,843 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:36:20,845 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:36:20,843 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:36:20,845 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:36:20,850 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:36:24,795 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:36:24,796 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:36:24,795 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:36:24,796 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:36:24,800 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:37:57,454 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:37:57,456 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:37:57,454 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:37:57,456 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:37:57,460 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:38:11,618 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:38:11,620 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:38:11,618 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:38:11,620 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:38:11,625 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
-2025-07-15 15:41:23,324 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
-2025-07-15 15:41:23,325 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-15 15:41:23,324 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
+2025-07-15 15:41:23,325 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\maincalculo\resources to target\classes
 2025-07-15 15:41:23,329 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Desenvolve Cidade\git\Arirang-plataforma\src\test\resources
 2025-07-15 15:54:34,198 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@4350a35f{STOPPING}[12.0.21,sto=0]
 2025-07-15 15:54:34,206 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@c3f8488{HTTP/1.1, (http/1.1)}{127.0.0.1:0}

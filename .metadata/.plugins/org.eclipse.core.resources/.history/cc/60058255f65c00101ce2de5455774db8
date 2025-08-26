@@ -2,7 +2,7 @@ package Alura;
 
 public class ExeAlura01 {
 
-	public static void main(String[] args) {
+	public static void maincalculo(String[] args) {
 
 		double temperaturaC = 25;
 		

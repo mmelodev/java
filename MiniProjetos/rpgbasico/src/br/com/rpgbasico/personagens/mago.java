@@ -1,6 +1,9 @@
 package br.com.rpgbasico.personagens;
 
-public class mago extends geral{
+import br.com.rpgbasico.acoes.acoeselfo;
+import br.com.rpgbasico.acoes.*;
+
+public class mago extends geral implements acoesmago {
     private boolean senioridade;
     private String escolaArcana;
     private String habilidadePrimaria;
@@ -36,5 +39,10 @@ public class mago extends geral{
 
     public void setHabilidadeSecundaria(String habilidadeSecundaria) {
         this.habilidadeSecundaria = habilidadeSecundaria;
+    }
+
+    @Override
+    public void lancarmagia() {
+        //minha ideia é ao lançar magia eu conseguir diminuir o Xp com -1 número. Como implementar isso aqui. Não sei se estou usando as interfaces da maneira certa para esse contexto.
     }
 }

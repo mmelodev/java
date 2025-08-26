@@ -139,5 +139,4 @@ public abstract class geral {
         this.fraquezaPessoal = fraquezaPessoal;
     }
 
-    public abstract String getsexo();
 }
