@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Alura/calcularretangulo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Alura/moeda/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Alura/tabuada/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Alura/ArrayListBasico/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MiniProjetos/desafiosdepoo/superheroi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MiniProjetos/desafiosdepoo/zoologico/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
