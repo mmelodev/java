@@ -46,6 +46,5 @@ public class Principal {
 
         System.out.println("A lista completa de pessoas: " + listaDePessoas.toString());
 
-
     }
 }
